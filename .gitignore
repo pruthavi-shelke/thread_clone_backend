@@ -1,1 +1,4 @@
 thread_clone_backend/__pycache__/
+db.sqlite3
+users/__pycache__/
+users/migrations/__pycache__/
